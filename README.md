@@ -31,8 +31,7 @@
 
 <div align="center">
 
-<img src="Screenshot 2026-08-11 195412.png" alt="Supermarket Grocery Sales Dashboard" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/aamiriqbal06/Grocery-Store-Sales-Analysis-Excel/main/Screenshot%20of%20dashborad.png" alt="Supermarket Grocery Sales Dashboard" width="100%">
 </div>
 
 ---
