@@ -110,7 +110,7 @@ North
 South
 West
 
-```text
+```
 
 ---
 
