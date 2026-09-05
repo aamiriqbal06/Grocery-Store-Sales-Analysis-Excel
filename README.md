@@ -109,3 +109,14 @@ East
 North
 South
 West
+
+---
+
+## 👤 Author
+
+**Aamir Iqbal**  
+Aspiring Data Analyst  
+---
+
+ If you found this project interesting, feel free to connect or provide feedback!
+
