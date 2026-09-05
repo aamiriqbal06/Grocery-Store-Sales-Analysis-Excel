@@ -110,6 +110,8 @@ North
 South
 West
 
+```text
+
 ---
 
 ## 👤 Author
